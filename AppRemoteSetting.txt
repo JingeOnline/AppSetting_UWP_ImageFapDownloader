@@ -1,1 +1,2 @@
--AppSetting-WebLink@$@$https://www.iconfinder.com/free_icons-AppSetting-
+Support download icons from:
+https://www.iconfinder.com/free_icons
